@@ -1,0 +1,10 @@
+{
+  "name": "REXTESTER BOT",
+  "description": "SYS DEF",
+  "keywords": ["TERMINAL"],
+  "env": {
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
