@@ -1,0 +1,22 @@
+{
+    "cSpell.words": [
+        "Heroku",
+        "Rextester",
+        "Telegraf",
+        "bot's",
+        "hastebin",
+        "pastebin",
+        "tracebacks"
+    ],
+
+    "editor.insertSpaces": true,
+    "editor.rulers": [ 80 ],
+
+    "eslint.autoFixOnSave": true,
+
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "javascript.implicitProjectConfig.checkJs": true,
+}
